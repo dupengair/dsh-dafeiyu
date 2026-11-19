@@ -1,0 +1,5 @@
+# 一次性临时文件，不提交
+work/temp/
+
+# 独立仓库，单独提交（github.com/dupengair/dsh-xiaojing-mem）
+小鯨记忆/
